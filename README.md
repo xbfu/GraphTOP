@@ -40,6 +40,6 @@ python run.py --dataset_name=PubMed --pretrain_task=EdgePredGraphPrompt
 
 
 ## Case study
-<img src="[https://github.com/xbfu/GraphTOP/blob/main/case.jpg](https://anonymous.4open.science/r/GraphTOP-787/case.jpg)" width="800" />
+<img src="https://anonymous.4open.science/r/GraphTOP-787/case.jpg" width="800" />
 
 Original graph structure and modified graph structure by GraphTOP of the 2-hop local subgraph of node 2195 in Cora.
