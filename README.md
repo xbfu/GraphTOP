@@ -36,3 +36,5 @@ Example: run GraphTOP on PubMed with LP-GraphPrompt as the pre-training task
 ```
 python run.py --dataset_name=PubMed --pretrain_task=EdgePredGraphPrompt
 ```
+
+![](https://github.com/xbfu/GraphTOP/blob/main/Picture1.png)
