@@ -40,5 +40,5 @@ python run.py --dataset_name=PubMed --pretrain_task=EdgePredGraphPrompt
 
 
 ## Case study
-![The following figures show original graph structure and modified graph structure by GraphTOP of the 2-hop local subgraph of node 2195.](https://github.com/xbfu/GraphTOP/blob/main/case.png)
+![The following figures show original graph structure and modified graph structure by GraphTOP of the 2-hop local subgraph of node 2195.](https://github.com/xbfu/GraphTOP/blob/main/case.jpg)
 
