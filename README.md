@@ -37,4 +37,8 @@ Example: run GraphTOP on PubMed with LP-GraphPrompt as the pre-training task
 python run.py --dataset_name=PubMed --pretrain_task=EdgePredGraphPrompt
 ```
 
-![](https://github.com/xbfu/GraphTOP/blob/main/Picture1.png)
+
+
+## Case study
+![The following figures show original graph structure and modified graph structure by GraphTOP of the 2-hop local subgraph of node 2195.](https://github.com/xbfu/GraphTOP/blob/main/case.png)
+
