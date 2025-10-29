@@ -37,9 +37,3 @@ Example: run GraphTOP on PubMed with LP-GraphPrompt as the pre-training task
 python run.py --dataset_name=PubMed --pretrain_task=EdgePredGraphPrompt
 ```
 
-
-
-## Case study
-<img src="https://anonymous.4open.science/r/GraphTOP-787/case.png" width="800" />
-
-Original graph structure and modified graph structure by GraphTOP of the 2-hop local subgraph of node 2195 in Cora.
